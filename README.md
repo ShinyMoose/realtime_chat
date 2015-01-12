@@ -4,9 +4,9 @@ realtime_chat
 a real time nodejs chat module that translates to a specified language. 
 
 Todo list:
-* Multi-chatroom options:
+* Multi-chatroom options
 * Work it to be interfaced with databases
-*Proper CSS
+* Proper CSS
 
 <br>Issues:
 * multpile users inputting things at the same time seems to do weird things to the server.
